@@ -8,7 +8,7 @@ public class Ejercicio5 {
 
     public static void main(String[] args) {
 
-        System.out.println("Introduzca una palabra:");
+        System.out.println("Introduzca una palabra y despues #:");
         String palabra = sc.nextLine();
         if(palabra.charAt(palabra.length()-1) != '#'){
             System.out.println("La palabra no termina en #");
