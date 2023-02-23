@@ -84,7 +84,9 @@ La media de las notas (12; 15; 8; 7) es 10,5.
 ~~~~~~~~
 
 ## Ejercicio 4   Máquina de votar
-Cree un algoritmo que pida a los usuarios que voten (los usuarios se turnarán para usar su máquina de votación). Se proponen varios candidatos. Al final del día, el presidente de la mesa de votación introduce un código especial para finalizar la votación (68753421) y se muestran los resultados. Eso sí, este ejercicio es teórico, ya que la seguridad no está garantizada y un usuario puede votar varias veces...
+Cree un algoritmo que pida a los usuarios que voten (los usuarios se turnarán para usar su máquina de votación). 
+Se proponen varios candidatos. Al final del día, el presidente de la mesa de votación introduce un código especial 
+para finalizar la votación (68753421) y se muestran los resultados. Eso sí, este ejercicio es teórico, ya que la seguridad no está garantizada y un usuario puede votar varias veces...
 
 Ejemplo de ejecución del algoritmo:
 
