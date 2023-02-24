@@ -39,7 +39,7 @@ public class Ejercicio10 {
 
 
 
-        public static void main(String[] args) {
+        public static void Ejercicio10metodo() {
             Ejercicio10 tabla = new Ejercicio10();
 
             Empleado empleado1 = new Empleado("Juan", 1001, 123456789);

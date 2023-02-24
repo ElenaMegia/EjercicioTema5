@@ -9,7 +9,7 @@ public class Ejercicio3 {
     //Crear un algoritmo que guarde loas valores introducidos por el usuario en una tabla y calcule la media de los valores
     static Scanner sc = new Scanner(System.in);
 
-    public static void main(String[] args) {
+    public static void Ejercicio3metodo() {
        List<Integer> tabla = new ArrayList<>();
         int valor = 0;
         while (valor != -1) {

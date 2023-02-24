@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class Ejercicio4 {
     static Scanner sc = new Scanner(System.in);
     //Crear un algoritmo que cuente los valores introducidos por consola del 1 al 4
-    public static void main(String[] args) {
+    public static void Ejercicio4metodo() {
         List<Integer> tabla = new ArrayList<>();
         System.out.println("Bienvenido a el programa de votaciones");
         int numero = -1;

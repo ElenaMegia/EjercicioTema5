@@ -3,7 +3,7 @@ package com.example.ejerciciotema5;
 public class Ejercicio6_3 {
 
 
-    public static void main(String[] args) {
+    public static void Ejercicio63metodo() {
         final int TAMAÑO = 4;
         int i, j, val;
         int[][] tab2d = new int[TAMAÑO][TAMAÑO];

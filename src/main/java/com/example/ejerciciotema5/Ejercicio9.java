@@ -12,7 +12,7 @@ public class Ejercicio9 {
     private char jugadorActual;
     private char ganadorjuego;
 
-    public static void main(String[] args) {
+    public static void Ejercicio9metodo() {
         Ejercicio9 juego = new Ejercicio9();
         juego.jugar();
     }
