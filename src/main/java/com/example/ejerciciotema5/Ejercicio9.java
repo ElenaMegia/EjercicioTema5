@@ -1,5 +1,7 @@
 package com.example.ejerciciotema5;
 
+import com.example.ejerciciotema5.ejercicio10.Empleado;
+
 import java.util.Scanner;
 
 public class Ejercicio9 {
@@ -88,7 +90,6 @@ public class Ejercicio9 {
         return gandor;
     }
 
-
-    }
+}
 
 
